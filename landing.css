@@ -3,7 +3,7 @@
 
 :root {
     --primary-color: #00040b;
-    --primary-light: #5d58bf;
+    --primary-light: #0d0d62;
     --orange-color: #f35405;
 
 }
@@ -123,14 +123,14 @@ h4 {
     width: 100%;
 }
 .home .content h1 {
-    font-size: 40px;
-    line-height: 50px;
-    letter-spacing: 2px;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 4px;
     text-transform: uppercase;
     font-weight: 400;
     -webkit-text-fill-color: blue;
     -webkit-text-stroke: 1px #fff;
-    max-width: 200px;
+    max-width: 300px;
 }
 
 .home .content h4 {
