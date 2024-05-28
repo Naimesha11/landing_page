@@ -3,7 +3,7 @@
 
 :root {
     --primary-color: #00040b;
-    --primary-light: #0d0d62;
+    --primary-light: #0b0bff;
     --orange-color: #f35405;
 
 }
@@ -130,7 +130,7 @@ h4 {
     font-weight: 400;
     -webkit-text-fill-color: blue;
     -webkit-text-stroke: 1px #fff;
-    max-width: 300px;
+    max-width: 400px;
 }
 
 .home .content h4 {
