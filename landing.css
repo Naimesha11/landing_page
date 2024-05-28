@@ -103,7 +103,7 @@ h4 {
 
 .home {
     background: linear-gradient(to top, #00040b, #00040bbb);
-    background-image: url("assests/header (1).jpg");
+    background-image: url("assests/land.jpg");
     background-repeat: no-repeat;
     background-position: top right;
     background-size: cover;
@@ -483,6 +483,7 @@ section .heading .subtitle {
     background-image: url("assests/ox.jpg");
     background-position: top center;
     background-attachment: fixed;
+    -webkit-background-clip: text;
     -webkit-text-stroke: #010101;
     -webkit-text-fill-color: transparent;
 }
